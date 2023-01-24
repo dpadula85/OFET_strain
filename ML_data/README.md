@@ -14,5 +14,5 @@ manuscript, but are related to tests and preliminary simulations that were
 performed in the development phase of this work. We included these data in the
 training set of the ML models.
 
-The `eht.csv` file was not used, it was just to check that Extended Hueckel
+The `eht.csv` file was not used, it was just to check that Extended H&uuml;ckel
 Model is not appropriate for transfer integrals.
