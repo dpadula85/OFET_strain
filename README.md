@@ -2,8 +2,8 @@ Description
 ===========
 This repository contains electronic supporting information for the paper
 **Towards the development of a machine-learning-assisted prediction of the
-electromechanical response in organic crystals**, submitted to
-by D. Padula, L. Barneschi, T. Cinaglia and A. Landi.
+electromechanical response in organic crystals**, submitted to _Adv. Energy
+Mater._ by D. Padula, L. Barneschi, A. Peluso, T. Cinaglia and A. Landi.
 
 Each subfolder contains files for the various simulations reported
 in the paper.
