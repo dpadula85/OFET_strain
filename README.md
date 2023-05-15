@@ -1,7 +1,7 @@
 Description
 ===========
 This repository contains electronic supporting information for the paper
-**Towards a fast machine-learning-assisted prediction of the electromechanical
+**Towards a fast machine-learning-assisted prediction of the mechanoelectric
 response in organic crystals**, submitted to _Chem. Mater._
 by D. Padula, L. Barneschi, A. Peluso, T. Cinaglia and A. Landi.
 
