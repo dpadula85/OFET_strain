@@ -1,9 +1,9 @@
 Description
 ===========
 This repository contains electronic supporting information for the paper
-**Towards a fast machine-learning-assisted prediction of the mechanoelectric
-response in organic crystals**, submitted to _Chem. Mater._
-by D. Padula, L. Barneschi, A. Peluso, T. Cinaglia and A. Landi.
+[**Towards a fast machine-learning-assisted prediction of the mechanoelectric
+response in organic crystals**, published in _J. Mater. Chem. C._
+by D. Padula, L. Barneschi, A. Peluso, T. Cinaglia and A. Landi](https://doi.org/10.1039/D3TC02235H).
 
 Each subfolder contains files for the various simulations reported
 in the paper.
